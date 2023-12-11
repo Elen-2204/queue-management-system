@@ -1,5 +1,18 @@
 # Queue Management System
-
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Clone the Repository](#clone-the-repository)
+  - [Install Dependencies](#install-dependencies)
+  - [Configure the System](#configure-the-system)
+  - [Run the Application](#run-the-application)
+  - [Access the Application](#access-the-application)
+- [Examples](#examples)
+  - [Handling Customer Queue](#handling-customer-queue)
+  - [Recording Output](#recording-output)
+  - [Freeing Allocated Memory](#freeing-allocated-memory)
+- [Contact](#contact)
 ## Overview
 
 The Queue Management System is a simple yet powerful application designed to streamline and organize queues in various settings. Whether you're managing a customer service desk, a healthcare facility, or any scenario where queues are common, this system aims to provide an efficient solution.
@@ -41,6 +54,50 @@ To get started with the Queue Management System, follow these steps:
 
 5. ## Access the Application:
    Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to access the Queue Management System.
+
+## Examples
+
+## Handling Customer Queue
+```bash
+#include "med_center.h"
+
+int main() {
+    // ... (previous code)
+
+    // Handle customer queue
+    handleCustomerQueue();
+
+    // ... (other code)
+}
+```
+## Recording Output
+
+```bash
+#include "med_center.h"
+
+int main() {
+    // ... (previous code)
+
+    // Record output data in a text file
+    recordOutput();
+
+    // ... (other code)
+}
+```
+
+## Freeing Allocated Memory
+```bash
+#include "med_center.h"
+
+int main() {
+    // ... (previous code)
+
+    // Free allocated memory
+    freeMemory();
+
+    // ... (other code)
+}
+```
 
 ## Contact
 
