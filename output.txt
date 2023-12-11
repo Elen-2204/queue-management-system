@@ -1,0 +1,98 @@
+Customer Queue:
+ID: 2, Name: Customer2, Service: General_Consultation, Time: 11:30
+ID: 4, Name: Customer4, Service: Ophthalmologist_Consultation, Time: 09:00
+ID: 5, Name: Customer5, Service: Ophthalmologist_Consultation, Time: 10:00
+ID: 6, Name: Customer6, Service: Ophthalmologist_Consultation, Time: 11:00
+ID: 7, Name: Customer7, Service: Vaccination, Time: 11:30
+ID: 8, Name: Customer8, Service: Vaccination, Time: 13:15
+ID: 9, Name: Customer9, Service: Vaccination, Time: 14:00
+ID: 10, Name: Customer10, Service: Vaccination, Time: 14:30
+ID: 11, Name: Customer11, Service: Vaccination, Time: 15:15
+ID: 12, Name: Customer12, Service: Vaccination, Time: 16:00
+ID: 1, Name: Customer1, Service: General_Consultation, Time: 10:15
+ID: 3, Name: Customer3, Service: General_Consultation, Time: 12:15
+Chosen Services:
+ID: 1, Name: Customer1, Service: General_Consultation, Time: 10:15
+ID: 3, Name: Customer3, Service: General_Consultation, Time: 12:15
+Chosen Services:
+ID: 1, Name: Customer1, Service: General_Consultation, Time: 10:15
+ID: 6, Name: Customer6, Service: Ophthalmologist_Consultation, Time: 11:00
+ID: 9, Name: Customer9, Service: Vaccination, Time: 14:00
+Chosen Services:
+ID: 5, Name: Customer5, Service: Ophthalmologist_Consultation, Time: 10:00
+ID: 4, Name: Customer4, Service: Ophthalmologist_Consultation, Time: 09:00
+ID: 12, Name: Customer12, Service: Vaccination, Time: 16:00
+ID: 6, Name: Customer6, Service: Ophthalmologist_Consultation, Time: 11:00
+ID: 1, Name: Customer1, Service: General_Consultation, Time: 10:15
+ID: 7, Name: Customer7, Service: Vaccination, Time: 11:30
+ID: 11, Name: Customer11, Service: Vaccination, Time: 15:15
+Chosen Services:
+ID: 6, Name: Customer6, Service: Ophthalmologist_Consultation, Time: 11:00
+ID: 4, Name: Customer4, Service: Ophthalmologist_Consultation, Time: 09:00
+ID: 12, Name: Customer12, Service: Vaccination, Time: 16:00
+Chosen Services:
+ID: 5, Name: Customer5, Service: Ophthalmologist_Consultation, Time: 10:00
+ID: 8, Name: Customer8, Service: Vaccination, Time: 13:15
+ID: 1, Name: Customer1, Service: General_Consultation, Time: 10:15
+ID: 9, Name: Customer9, Service: Vaccination, Time: 14:00
+ID: 12, Name: Customer12, Service: Vaccination, Time: 16:00
+ID: 3, Name: Customer3, Service: General_Consultation, Time: 12:15
+ID: 2, Name: Customer2, Service: General_Consultation, Time: 11:30
+ID: 11, Name: Customer11, Service: Vaccination, Time: 15:15
+ID: 7, Name: Customer7, Service: Vaccination, Time: 11:30
+Chosen Services:
+ID: 7, Name: Customer7, Service: Vaccination, Time: 11:30
+ID: 4, Name: Customer4, Service: Ophthalmologist_Consultation, Time: 09:00
+ID: 1, Name: Customer1, Service: General_Consultation, Time: 10:15
+ID: 3, Name: Customer3, Service: General_Consultation, Time: 12:15
+ID: 10, Name: Customer10, Service: Vaccination, Time: 14:30
+Chosen Services:
+ID: 7, Service: Vaccination, Time: 11:30
+ID: 4, Service: Ophthalmologist_Consultation, Time: 09:00
+ID: 8, Service: Vaccination, Time: 13:15
+ID: 12, Service: Vaccination, Time: 16:00
+Chosen Services:
+ID: 3, Name: Customer3, Service: General_Consultation, Time: 12:15
+ID: 1, Name: Customer1, Service: General_Consultation, Time: 10:15
+ID: 6, Name: Customer6, Service: Ophthalmologist_Consultation, Time: 11:00
+ID: 10, Name: Customer10, Service: Vaccination, Time: 14:30
+Chosen Services:
+ID: 48, Name: Customer48, Service: Vaccination, Time: 11:30
+ID: 42, Name: Customer42, Service: General_Consultation, Time: 10:15
+ID: 44, Name: Customer44, Service: General_Consultation, Time: 12:15
+Chosen Services:
+ID: 146, Name: Customer146, Service: Ophthalmologist_Consultation, Time: 11:00
+ID: 141, Name: Customer141, Service: General_Consultation, Time: 10:15
+ID: 151, Name: Customer151, Service: Vaccination, Time: 15:15
+ID: 149, Name: Customer149, Service: Vaccination, Time: 14:00
+ID: 148, Name: Customer148, Service: Vaccination, Time: 13:15
+ID: 142, Name: Customer142, Service: General_Consultation, Time: 11:30
+Chosen Services:
+ID: 141, Name: Customer141, Service: General_Consultation, Time: 10:15
+ID: 143, Name: Customer143, Service: General_Consultation, Time: 12:15
+ID: 151, Name: Customer151, Service: Vaccination, Time: 15:15
+ID: 146, Name: Customer146, Service: Ophthalmologist_Consultation, Time: 11:00
+ID: 148, Name: Customer148, Service: Vaccination, Time: 13:15
+ID: 145, Name: Customer145, Service: Ophthalmologist_Consultation, Time: 10:00
+ID: 142, Name: Customer142, Service: General_Consultation, Time: 11:30
+ID: 152, Name: Customer152, Service: Vaccination, Time: 16:00
+ID: 147, Name: Customer147, Service: Vaccination, Time: 11:30
+ID: 144, Name: Customer144, Service: Ophthalmologist_Consultation, Time: 09:00
+ID: 150, Name: Customer150, Service: Vaccination, Time: 14:30
+ID: 149, Name: Customer149, Service: Vaccination, Time: 14:00
+Chosen Services:
+ID: 567, Name: Customer567, Service: General_Consultation, Time: 10:15
+ID: 500, Name: Customer500, Service: General_Consultation, Time: 12:15
+ID: 345, Name: Customer345, Service: Vaccination, Time: 15:15
+ID: 134, Name: Customer134, Service: General_Consultation, Time: 11:30
+Chosen Services:
+ID: 962, Name: Customer962, Service: Vaccination, Time: 13:15
+ID: 658, Name: Customer658, Service: Vaccination, Time: 11:30
+Chosen Services:
+ID: 134, Name: Customer134, Service: General_Consultation, Time: 11:30
+ID: 264, Name: Customer264, Service: Vaccination, Time: 14:00
+ID: 524, Name: Customer524, Service: Ophthalmologist_Consultation, Time: 10:00
+Chosen Services:
+ID: 567, Name: Customer567, Service: General_Consultation, Time: 10:15
+ID: 500, Name: Customer500, Service: General_Consultation, Time: 12:15
+ID: 524, Name: Customer524, Service: Ophthalmologist_Consultation, Time: 10:00
