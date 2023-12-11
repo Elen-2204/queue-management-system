@@ -1,0 +1,13 @@
+General_Consultation 10:15
+General_Consultation 11:30
+General_Consultation 12:15
+Ophthalmologist_Consultation 09:00
+Ophthalmologist_Consultation 10:00
+Ophthalmologist_Consultation 11:00
+Vaccination 11:30
+Vaccination 13:15
+Vaccination 14:00
+Vaccination 14:30
+Vaccination 15:15
+Vaccination 16:00
+
